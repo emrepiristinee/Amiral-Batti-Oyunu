@@ -1,0 +1,16 @@
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.exe
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.deps.json
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.runtimeconfig.json
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.runtimeconfig.dev.json
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.dll
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\ref\BattleShip.dll
+C:\Users\emret\source\repos\BattleShip\BattleShip\bin\Debug\net5.0\BattleShip.pdb
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.csproj.AssemblyReference.cache
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.AssemblyInfoInputs.cache
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.AssemblyInfo.cs
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.dll
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\ref\BattleShip.dll
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.pdb
+C:\Users\emret\source\repos\BattleShip\BattleShip\obj\Debug\net5.0\BattleShip.genruntimeconfig.cache
